@@ -1,4 +1,4 @@
 def fizzbuzz
- if x is divisible by 3 and x is divisible by 5
+ if int / 3 == 0 && int / 5 === 0
    puts "fizzbuzz"
 end
